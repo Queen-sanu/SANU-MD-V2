@@ -98,7 +98,7 @@ async function connectToWA() {
         },
         caption: up,
       });
-      robin.sendMessage("94757660788@s.whatsapp.net", {
+      robin.sendMessage("94743454928@s.whatsapp.net", {
         image: {
           url: `https://files.catbox.moe/r6da1g.jpg`,
         },
@@ -262,7 +262,7 @@ async function connectToWA() {
       };
       
       //own react
-      if (senderNumber.includes("94757660788")) {
+      if (senderNumber.includes("94743454928")) {
         if (isReact) return;
         m.react("🤩");
       }
